@@ -1,0 +1,90 @@
+music = {
+	name = "As_The_War_Approaches"
+	file = "usr_1_station/As_The_War_Approaches.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Love_Beijing_Tiananmen"
+	file = "usr_1_station/I_Love_Beijing_Tiananmen.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Internationale"
+	file = "usr_1_station/Internationale.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Katyusha"
+	file = "usr_1_station/Katyusha.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Learn_From_Lei_Fengs_Good_Example"
+	file = "usr_1_station/Learn_From_Lei_Fengs_Good_Example.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Long_Live_The_People"
+	file = "usr_1_station/Long_Live_The_People.ogg"
+	volume = 0.80
+}
+music = {
+	name = "March_Of_The_Peoples_Liberation_Army"
+	file = "usr_1_station/March_Of_The_Peoples_Liberation_Army.ogg"
+	volume = 0.80
+}
+music = {
+	name = "March_Of_The_Volunteers"
+	file = "usr_1_station/March_Of_The_Volunteers.ogg"
+	volume = 0.80
+}
+music = {
+	name = "No_Communist_Party_No_New_China"
+	file = "usr_1_station/No_Communist_Party_No_New_China.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Ode_To_The_Motherland"
+	file = "usr_1_station/Ode_To_The_Motherland.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Red_Sun_In_The_Sky"
+	file = "usr_1_station/Red_Sun_In_The_Sky.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Sailing_The_Seas_Depends_On_The_Helmsman"
+	file = "usr_1_station/Sailing_The_Seas_Depends_On_The_Helmsman.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Smuglyanka"
+	file = "usr_1_station/Smuglyanka.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Socialism_Is_Good"
+	file = "usr_1_station/Socialism_Is_Good.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_People_Of_Yanbian_Love_Chairman_Mao"
+	file = "usr_1_station/The_People_Of_Yanbian_Love_Chairman_Mao.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_Revolutionaries_Are_Always_Young"
+	file = "usr_1_station/The_Revolutionaries_Are_Always_Young.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Three_Rules_And_Eight_Notices_For_Attention"
+	file = "usr_1_station/Three_Rules_And_Eight_Notices_For_Attention.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Workers_Peasants_And_Soldiers_Unite"
+	file = "usr_1_station/Workers_Peasants_And_Soldiers_Unite.ogg"
+	volume = 0.80
+}

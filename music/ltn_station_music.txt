@@ -1,0 +1,26 @@
+music_station = "ltn_station"
+
+music = {
+	song = "Kaini"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Caligula"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Languages"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

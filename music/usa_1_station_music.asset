@@ -1,0 +1,545 @@
+music = {
+	name = "Good_Morning_Judge"
+	file = "usa_1_station/Good_Morning_Judge.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Dancing_Queen"
+	file = "usa_1_station/Dancing_Queen.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Gimme_Gimme_Gimme"
+	file = "usa_1_station/Gimme_Gimme_Gimme.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Back_In_Black"
+	file = "usa_1_station/Back_In_Black.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Highway_To_Hell"
+	file = "usa_1_station/Highway_To_Hell.ogg"
+	volume = 0.80
+}
+music = {
+	name = "If_You_Want_Blood"
+	file = "usa_1_station/If_You_Want_Blood.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Take_On_Me"
+	file = "usa_1_station/Take_On_Me.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Forever_Young"
+	file = "usa_1_station/Forever_Young.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Only_Time_Will_Tell"
+	file = "usa_1_station/Only_Time_Will_Tell.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Fight_For_Your_Right"
+	file = "usa_1_station/Fight_For_Your_Right.ogg"
+	volume = 0.80
+}
+music = {
+	name = "How_Deep_Is_Your_Love"
+	file = "usa_1_station/How_Deep_Is_Your_Love.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Stayin_Alive"
+	file = "usa_1_station/Stayin_Alive.ogg"
+	volume = 0.80
+}
+music = {
+	name = "In_A_Big_Country"
+	file = "usa_1_station/In_A_Big_Country.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Eyes_Without_A_Face"
+	file = "usa_1_station/Eyes_Without_A_Face.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Rebel_Yell"
+	file = "usa_1_station/Rebel_Yell.ogg"
+	volume = 0.80
+}
+music = {
+	name = "We_Didnt_Start_The_Fire"
+	file = "usa_1_station/We_Didnt_Start_The_Fire.ogg"
+	volume = 0.80
+}
+music = {
+	name = "War_Pigs"
+	file = "usa_1_station/War_Pigs.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Heart_Of_Glass"
+	file = "usa_1_station/Heart_Of_Glass.ogg"
+	volume = 0.80
+}
+music = {
+	name = "What_You_Wont_Do_For_Love"
+	file = "usa_1_station/What_You_Wont_Do_For_Love.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Livin_On_A_Prayer"
+	file = "usa_1_station/Livin_On_A_Prayer.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Rasputin"
+	file = "usa_1_station/Rasputin.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Run_To_You"
+	file = "usa_1_station/Run_To_You.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Summer_Of_69"
+	file = "usa_1_station/Summer_Of_69.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Have_You_Ever_Seen_The_Rain"
+	file = "usa_1_station/Have_You_Ever_Seen_The_Rain.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Died_In_Your_Arms"
+	file = "usa_1_station/Died_In_Your_Arms.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Enjoy_The_Silence"
+	file = "usa_1_station/Enjoy_The_Silence.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Policy_Of_Truth"
+	file = "usa_1_station/Policy_Of_Truth.ogg"
+	volume = 0.80
+}
+music = {
+	name = "New_Frontier"
+	file = "usa_1_station/New_Frontier.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Ruby_Baby"
+	file = "usa_1_station/Ruby_Baby.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Hungry_Like_The_Wolf"
+	file = "usa_1_station/Hungry_Like_The_Wolf.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Invisible"
+	file = "usa_1_station/Invisible.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Save_A_Prayer"
+	file = "usa_1_station/Save_A_Prayer.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Mr_Blue_Sky"
+	file = "usa_1_station/Mr_Blue_Sky.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_Final_Countdown"
+	file = "usa_1_station/The_Final_Countdown.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Sexcrime"
+	file = "usa_1_station/Sexcrime.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Ran"
+	file = "usa_1_station/I_Ran.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Turn_It_On_Again"
+	file = "usa_1_station/Turn_It_On_Again.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Civil_War"
+	file = "usa_1_station/Civil_War.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Paradise_City"
+	file = "usa_1_station/Paradise_City.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Cant_Go_For_That"
+	file = "usa_1_station/I_Cant_Go_For_That.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Maneater"
+	file = "usa_1_station/Maneater.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Out_Of_Touch"
+	file = "usa_1_station/Out_Of_Touch.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Hip_To_Be_Square"
+	file = "usa_1_station/Hip_To_Be_Square.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Want_A_New_Drug"
+	file = "usa_1_station/I_Want_A_New_Drug.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_Power_Of_Love"
+	file = "usa_1_station/The_Power_Of_Love.ogg"
+	volume = 0.80
+}
+music = {
+	name = "2_Minutes_To_Midnight"
+	file = "usa_1_station/2_Minutes_To_Midnight.ogg"
+	volume = 0.80
+}
+music = {
+	name = "When_The_Wild_Wind_Blows"
+	file = "usa_1_station/When_The_Wild_Wind_Blows.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Going_Underground"
+	file = "usa_1_station/Going_Underground.ogg"
+	volume = 0.80
+}
+music = {
+	name = "In_The_City"
+	file = "usa_1_station/In_The_City.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Bad_Reputation"
+	file = "usa_1_station/Bad_Reputation.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Memphis"
+	file = "usa_1_station/Memphis.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Separate_Ways"
+	file = "usa_1_station/Separate_Ways.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Disorder"
+	file = "usa_1_station/Disorder.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Love_Will_Tear_Us_Apart"
+	file = "usa_1_station/Love_Will_Tear_Us_Apart.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Another_Life"
+	file = "usa_1_station/Another_Life.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Kids_In_America"
+	file = "usa_1_station/Kids_In_America.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Was_Made_For_Lovin_You"
+	file = "usa_1_station/I_Was_Made_For_Lovin_You.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Heavens_On_Fire"
+	file = "usa_1_station/Heavens_On_Fire.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Self_Control"
+	file = "usa_1_station/Self_Control.ogg"
+	volume = 0.80
+}
+music = {
+	name = "All_Night_Long"
+	file = "usa_1_station/All_Night_Long.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Break_My_Stride"
+	file = "usa_1_station/Break_My_Stride.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_Safety_Dance"
+	file = "usa_1_station/The_Safety_Dance.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Enter_Sandman"
+	file = "usa_1_station/Enter_Sandman.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Bad"
+	file = "usa_1_station/Bad.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Beat_It"
+	file = "usa_1_station/Beat_It.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Billie_Jean"
+	file = "usa_1_station/Billie_Jean.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Off_The_Wall"
+	file = "usa_1_station/Off_The_Wall.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Rock_With_You"
+	file = "usa_1_station/Rock_With_You.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Smooth_Criminal"
+	file = "usa_1_station/Smooth_Criminal.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_Man_Who_Sold_The_World"
+	file = "usa_1_station/The_Man_Who_Sold_The_World.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Homage"
+	file = "usa_1_station/Homage.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Atlantis_Is_Calling"
+	file = "usa_1_station/Atlantis_Is_Calling.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Brother_Louie"
+	file = "usa_1_station/Brother_Louie.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Cheri_Cheri_Lady"
+	file = "usa_1_station/Cheri_Cheri_Lady.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Geronimos_Cadillac"
+	file = "usa_1_station/Geronimos_Cadillac.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Who_Will_Save_The_World"
+	file = "usa_1_station/Who_Will_Save_The_World.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Youre_My_Heart_Youre_My_Soul"
+	file = "usa_1_station/Youre_My_Heart_Youre_My_Soul.ogg"
+	volume = 0.80
+}
+music = {
+	name = "The_National_Front_Disco"
+	file = "usa_1_station/The_National_Front_Disco.ogg"
+	volume = 0.80
+}
+music = {
+	name = "One_Night_In_Bangkok"
+	file = "usa_1_station/One_Night_In_Bangkok.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Blue_Monday"
+	file = "usa_1_station/Blue_Monday.ogg"
+	volume = 0.80
+}
+music = {
+	name = "True_Faith"
+	file = "usa_1_station/True_Faith.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Your_Love"
+	file = "usa_1_station/Your_Love.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Love_Is_A_Battlefield"
+	file = "usa_1_station/Love_Is_A_Battlefield.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Dont_Care_Anymore"
+	file = "usa_1_station/I_Dont_Care_Anymore.ogg"
+	volume = 0.80
+}
+music = {
+	name = "In_The_Flesh"
+	file = "usa_1_station/In_The_Flesh.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Two_Suns_In_The_Sunset"
+	file = "usa_1_station/Two_Suns_In_The_Sunset.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Send_Me_An_Angel"
+	file = "usa_1_station/Send_Me_An_Angel.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Never_Gonna_Give_You_Up"
+	file = "usa_1_station/Never_Gonna_Give_You_Up.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Together_Forever"
+	file = "usa_1_station/Together_Forever.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Whenever_You_Need_Somebody"
+	file = "usa_1_station/Whenever_You_Need_Somebody.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Paint_It_Black"
+	file = "usa_1_station/Paint_It_Black.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Wind_Of_Change"
+	file = "usa_1_station/Wind_Of_Change.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Heaven_Knows_Im_Miserable_Now"
+	file = "usa_1_station/Heaven_Knows_Im_Miserable_Now.ogg"
+	volume = 0.80
+}
+music = {
+	name = "There_Is_A_Light_That_Never_Goes_Out"
+	file = "usa_1_station/There_Is_A_Light_That_Never_Goes_Out.ogg"
+	volume = 0.80
+}
+music = {
+	name = "This_Charming_Man"
+	file = "usa_1_station/This_Charming_Man.ogg"
+	volume = 0.80
+}
+music = {
+	name = "United_Forces"
+	file = "usa_1_station/United_Forces.ogg"
+	volume = 0.80
+}
+music = {
+	name = "In_The_Army_Now"
+	file = "usa_1_station/In_The_Army_Now.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Everybody_Wants_To_Rule_The_World"
+	file = "usa_1_station/Everybody_Wants_To_Rule_The_World.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Head_Over_Heels"
+	file = "usa_1_station/Head_Over_Heels.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Mad_World"
+	file = "usa_1_station/Mad_World.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Pale_Shelter"
+	file = "usa_1_station/Pale_Shelter.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Shout"
+	file = "usa_1_station/Shout.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Wanna_Rock"
+	file = "usa_1_station/I_Wanna_Rock.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Were_Not_Gonna_Take_It"
+	file = "usa_1_station/Were_Not_Gonna_Take_It.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Dancing_With_Tears_In_My_Eyes"
+	file = "usa_1_station/Dancing_With_Tears_In_My_Eyes.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Everything_She_Wants"
+	file = "usa_1_station/Everything_She_Wants.ogg"
+	volume = 0.80
+}
+music = {
+	name = "I_Wanna_Dance_With_Somebody"
+	file = "usa_1_station/I_Wanna_Dance_With_Somebody.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Owner_Of_A_Lonely_Heart"
+	file = "usa_1_station/Owner_Of_A_Lonely_Heart.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Gimme_All_Your_Lovin"
+	file = "usa_1_station/Gimme_All_Your_Lovin.ogg"
+	volume = 0.80
+}

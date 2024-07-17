@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_ltn_station_art"
+		textureFile = "gfx/interface/topbar/musicplayer/synthwave_station_art.dds"
+		noOfFrames = 2
+	}
+}

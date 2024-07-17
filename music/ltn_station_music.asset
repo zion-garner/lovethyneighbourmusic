@@ -1,0 +1,15 @@
+music = {
+	name = "Caligula"
+	file = "ltn_station/Caligula.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Kaini"
+	file = "ltn_station/Kaini.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Languages"
+	file = "ltn_station/Languages.ogg"
+	volume = 0.80
+}

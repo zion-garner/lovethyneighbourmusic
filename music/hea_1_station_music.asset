@@ -1,0 +1,100 @@
+music = {
+	name = "Sun_Fruit"
+	file = "hea_1_station/Sun_Fruit.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Etsuko"
+	file = "hea_1_station/Etsuko.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Everything_Balloon"
+	file = "hea_1_station/Everything_Balloon.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Signals"
+	file = "hea_1_station/Signals.ogg"
+	volume = 0.80
+}
+music = {
+	name = "False_Gods"
+	file = "hea_1_station/False_Gods.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Nekrosis"
+	file = "hea_1_station/Nekrosis.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Where_Am_I"
+	file = "hea_1_station/Where_Am_I.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Low_Down"
+	file = "hea_1_station/Low_Down.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Last_Sounds"
+	file = "hea_1_station/Last_Sounds.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Zone_of_Fear"
+	file = "hea_1_station/Zone_of_Fear.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Broken_Hearts"
+	file = "hea_1_station/Broken_Hearts.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Indoor_Horror"
+	file = "hea_1_station/Indoor_Horror.ogg"
+	volume = 0.80
+}
+music = {
+	name = "District_Main"
+	file = "hea_1_station/District_Main.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Utroba_Disease"
+	file = "hea_1_station/Utroba_Disease.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Black_Fairy"
+	file = "hea_1_station/Black_Fairy.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Moan"
+	file = "hea_1_station/Moan.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Rachels_Song"
+	file = "hea_1_station/Rachels_Song.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Is_That_So"
+	file = "hea_1_station/Is_That_So.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Space_Mission"
+	file = "hea_1_station/Space_Mission.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Witch_Doctor"
+	file = "hea_1_station/Witch_Doctor.ogg"
+	volume = 0.80
+}
