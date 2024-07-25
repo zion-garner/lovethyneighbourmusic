@@ -114,6 +114,11 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Burning_For_You"
+	file = "usa_1_station/Burning_For_You.ogg"
+	volume = 0.80
+}
+music = {
 	name = "Have_You_Ever_Seen_The_Rain"
 	file = "usa_1_station/Have_You_Ever_Seen_The_Rain.ogg"
 	volume = 0.80
@@ -224,6 +229,11 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Urban_Guerrilla"
+	file = "usa_1_station/Urban_Guerrilla.ogg"
+	volume = 0.80
+}
+music = {
 	name = "2_Minutes_To_Midnight"
 	file = "usa_1_station/2_Minutes_To_Midnight.ogg"
 	volume = 0.80
@@ -241,6 +251,11 @@ music = {
 music = {
 	name = "In_The_City"
 	file = "usa_1_station/In_The_City.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Dont_Answer_Me"
+	file = "usa_1_station/Dont_Answer_Me.ogg"
 	volume = 0.80
 }
 music = {
@@ -404,6 +419,11 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Bizarre_Love_Triangle"
+	file = "usa_1_station/Bizarre_Love_Triangle.ogg"
+	volume = 0.80
+}
+music = {
 	name = "Your_Love"
 	file = "usa_1_station/Your_Love.ogg"
 	volume = 0.80
@@ -426,6 +446,11 @@ music = {
 music = {
 	name = "Two_Suns_In_The_Sunset"
 	file = "usa_1_station/Two_Suns_In_The_Sunset.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Its_Sin"
+	file = "usa_1_station/Its_Sin.ogg"
 	volume = 0.80
 }
 music = {
@@ -459,6 +484,16 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Gold"
+	file = "usa_1_station/Gold.ogg"
+	volume = 0.80
+}
+music = {
+	name = "True"
+	file = "usa_1_station/True.ogg"
+	volume = 0.80
+}
+music = {
 	name = "Heaven_Knows_Im_Miserable_Now"
 	file = "usa_1_station/Heaven_Knows_Im_Miserable_Now.ogg"
 	volume = 0.80
@@ -481,6 +516,11 @@ music = {
 music = {
 	name = "In_The_Army_Now"
 	file = "usa_1_station/In_The_Army_Now.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Teen_Age_Riot"
+	file = "usa_1_station/Teen_Age_Riot.ogg"
 	volume = 0.80
 }
 music = {

@@ -185,6 +185,14 @@ music = {
 	}
 }
 music = {
+	song = "Burning_For_You"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Have_You_Ever_Seen_The_Rain"
 	chance = {
 		modifier = {
@@ -354,6 +362,14 @@ music = {
 }
 music = {
 	song = "The_Power_Of_Love"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Urban_Guerrilla"
 	chance = {
 		modifier = {
 			factor = 1
@@ -649,6 +665,14 @@ music = {
 	}
 }
 music = {
+	song = "Bizarre_Love_Triangle"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Your_Love"
 	chance = {
 		modifier = {
@@ -682,6 +706,14 @@ music = {
 }
 music = {
 	song = "Two_Suns_In_The_Sunset"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Its_Sin"
 	chance = {
 		modifier = {
 			factor = 1
@@ -737,6 +769,22 @@ music = {
 	}
 }
 music = {
+	song = "Gold"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "True"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Heaven_Knows_Im_Miserable_Now"
 	chance = {
 		modifier = {
@@ -770,6 +818,14 @@ music = {
 }
 music = {
 	song = "In_The_Army_Now"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Teen_Age_Riot"
 	chance = {
 		modifier = {
 			factor = 1
@@ -826,6 +882,14 @@ music = {
 }
 music = {
 	song = "Were_Not_Gonna_Take_It"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Dont_Answer_Me"
 	chance = {
 		modifier = {
 			factor = 1
