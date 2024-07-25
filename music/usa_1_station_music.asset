@@ -254,11 +254,6 @@ music = {
 	volume = 0.80
 }
 music = {
-	name = "Dont_Answer_Me"
-	file = "usa_1_station/Dont_Answer_Me.ogg"
-	volume = 0.80
-}
-music = {
 	name = "Bad_Reputation"
 	file = "usa_1_station/Bad_Reputation.ogg"
 	volume = 0.80
@@ -556,6 +551,11 @@ music = {
 music = {
 	name = "Were_Not_Gonna_Take_It"
 	file = "usa_1_station/Were_Not_Gonna_Take_It.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Dont_Answer_Me"
+	file = "usa_1_station/Dont_Answer_Me.ogg"
 	volume = 0.80
 }
 music = {
