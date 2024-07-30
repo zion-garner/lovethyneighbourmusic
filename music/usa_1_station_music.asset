@@ -404,6 +404,11 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Its_a_Mistake"
+	file = "usa_1_station/Its_a_Mistake.ogg"
+	volume = 0.80
+}
+music = {
 	name = "Blue_Monday"
 	file = "usa_1_station/Blue_Monday.ogg"
 	volume = 0.80
@@ -444,8 +449,28 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Another_Brick_in_the_Wall"
+	file = "usa_1_station/Another_Brick_in_the_Wall.ogg"
+	volume = 0.80
+}
+music = {
 	name = "Its_Sin"
 	file = "usa_1_station/Its_Sin.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Being_Boring"
+	file = "usa_1_station/Being_Boring.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Go_West"
+	file = "usa_1_station/Go_West.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Somebody_Watching_Me"
+	file = "usa_1_station/Somebody_Watching_Me.ogg"
 	volume = 0.80
 }
 music = {

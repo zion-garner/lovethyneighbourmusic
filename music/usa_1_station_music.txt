@@ -649,6 +649,14 @@ music = {
 	}
 }
 music = {
+	song = "Its_a_Mistake"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Blue_Monday"
 	chance = {
 		modifier = {
@@ -713,7 +721,39 @@ music = {
 	}
 }
 music = {
+	song = "Another_Brick_in_the_Wall"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Its_Sin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Being_Boring"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Go_West"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Somebody_Watching_Me"
 	chance = {
 		modifier = {
 			factor = 1
