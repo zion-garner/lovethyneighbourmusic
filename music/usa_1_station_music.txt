@@ -57,7 +57,39 @@ music = {
 	}
 }
 music = {
+	song = "Dont_Answer_Me"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Games_People_Play"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Forever_Young"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Japanese_Boy"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Obsession"
 	chance = {
 		modifier = {
 			factor = 1
@@ -113,6 +145,14 @@ music = {
 	}
 }
 music = {
+	song = "John_Wayne"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Rebel_Yell"
 	chance = {
 		modifier = {
@@ -137,7 +177,23 @@ music = {
 	}
 }
 music = {
+	song = "Atomic"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Heart_Of_Glass"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Burning_For_You"
 	chance = {
 		modifier = {
 			factor = 1
@@ -185,7 +241,7 @@ music = {
 	}
 }
 music = {
-	song = "Burning_For_You"
+	song = "Video_Killed_The_Radio_Star"
 	chance = {
 		modifier = {
 			factor = 1
@@ -194,6 +250,14 @@ music = {
 }
 music = {
 	song = "Have_You_Ever_Seen_The_Rain"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Sunglasses_At_Night"
 	chance = {
 		modifier = {
 			factor = 1
@@ -210,6 +274,14 @@ music = {
 }
 music = {
 	song = "Enjoy_The_Silence"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Everything_Counts"
 	chance = {
 		modifier = {
 			factor = 1
@@ -289,7 +361,55 @@ music = {
 	}
 }
 music = {
+	song = "Act_Like_You_Know"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "I_Ran"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Space_Age_Love_Song"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "I_Want_To_Know_What_Love_Is"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Waiting_For_A_Girl_Like_You"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Relax"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Welcome_To_The_Pleasuredome"
 	chance = {
 		modifier = {
 			factor = 1
@@ -321,6 +441,14 @@ music = {
 	}
 }
 music = {
+	song = "Family_Man"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "I_Cant_Go_For_That"
 	chance = {
 		modifier = {
@@ -338,6 +466,14 @@ music = {
 }
 music = {
 	song = "Out_Of_Touch"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Urban_Guerrilla"
 	chance = {
 		modifier = {
 			factor = 1
@@ -369,7 +505,23 @@ music = {
 	}
 }
 music = {
-	song = "Urban_Guerrilla"
+	song = "Dont_You_Want_Me"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Fascination"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Love_Action"
 	chance = {
 		modifier = {
 			factor = 1
@@ -409,6 +561,14 @@ music = {
 	}
 }
 music = {
+	song = "Crocketts_Theme"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Bad_Reputation"
 	chance = {
 		modifier = {
@@ -418,6 +578,14 @@ music = {
 }
 music = {
 	song = "Memphis"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Missing_You"
 	chance = {
 		modifier = {
 			factor = 1
@@ -481,6 +649,14 @@ music = {
 	}
 }
 music = {
+	song = "Lick_It_Up"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Self_Control"
 	chance = {
 		modifier = {
@@ -497,7 +673,47 @@ music = {
 	}
 }
 music = {
+	song = "Never_Too_Much"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Break_My_Stride"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Down_Under"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Its_a_Mistake"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Overkill"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Who_Can_It_Be_Now"
 	chance = {
 		modifier = {
 			factor = 1
@@ -569,7 +785,23 @@ music = {
 	}
 }
 music = {
+	song = "Wanna_Be_Startin_Somethin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "The_Man_Who_Sold_The_World"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Moonlight_Shadow"
 	chance = {
 		modifier = {
 			factor = 1
@@ -641,6 +873,14 @@ music = {
 	}
 }
 music = {
+	song = "Broken_Wings"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "One_Night_In_Bangkok"
 	chance = {
 		modifier = {
@@ -649,7 +889,15 @@ music = {
 	}
 }
 music = {
-	song = "Its_a_Mistake"
+	song = "99_Red_Balloons"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Bizarre_Love_Triangle"
 	chance = {
 		modifier = {
 			factor = 1
@@ -673,7 +921,7 @@ music = {
 	}
 }
 music = {
-	song = "Bizarre_Love_Triangle"
+	song = "Get_Down_Saturday_Night"
 	chance = {
 		modifier = {
 			factor = 1
@@ -697,7 +945,55 @@ music = {
 	}
 }
 music = {
+	song = "Being_Boring"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Go_West"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Its_Sin"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "West_End_Girls"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Major_Tom"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "I_Dont_Care_Anymore"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "In_The_Air_Tonight"
 	chance = {
 		modifier = {
 			factor = 1
@@ -729,7 +1025,7 @@ music = {
 	}
 }
 music = {
-	song = "Its_Sin"
+	song = "Automatic"
 	chance = {
 		modifier = {
 			factor = 1
@@ -737,15 +1033,7 @@ music = {
 	}
 }
 music = {
-	song = "Being_Boring"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Go_West"
+	song = "Love_My_Way"
 	chance = {
 		modifier = {
 			factor = 1
@@ -762,6 +1050,30 @@ music = {
 }
 music = {
 	song = "Send_Me_An_Angel"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Its_The_End_Of_The_World_As_We_Know_It"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ill_Be_Good"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Keep_On_Loving_You"
 	chance = {
 		modifier = {
 			factor = 1
@@ -801,23 +1113,15 @@ music = {
 	}
 }
 music = {
+	song = "More_Than_This"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Wind_Of_Change"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Gold"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "True"
 	chance = {
 		modifier = {
 			factor = 1
@@ -857,7 +1161,7 @@ music = {
 	}
 }
 music = {
-	song = "In_The_Army_Now"
+	song = "Teen_Age_Riot"
 	chance = {
 		modifier = {
 			factor = 1
@@ -865,7 +1169,23 @@ music = {
 	}
 }
 music = {
-	song = "Teen_Age_Riot"
+	song = "Gold"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "True"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "In_The_Army_Now"
 	chance = {
 		modifier = {
 			factor = 1
@@ -913,6 +1233,14 @@ music = {
 	}
 }
 music = {
+	song = "Africa"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "I_Wanna_Rock"
 	chance = {
 		modifier = {
@@ -929,14 +1257,6 @@ music = {
 	}
 }
 music = {
-	song = "Dont_Answer_Me"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
 	song = "Dancing_With_Tears_In_My_Eyes"
 	chance = {
 		modifier = {
@@ -945,7 +1265,39 @@ music = {
 	}
 }
 music = {
+	song = "Dance_Hall_Days"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Everybody_Have_Fun_Tonight"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Dont_Let_Go"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Everything_She_Wants"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "And_The_Beat_Goes_On"
 	chance = {
 		modifier = {
 			factor = 1

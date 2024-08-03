@@ -1,11 +1,26 @@
 music = {
-	name = "Caligula"
-	file = "ltn_station/Caligula.ogg"
+	name = "Kaini"
+	file = "ltn_station/Kaini.ogg"
 	volume = 0.80
 }
 music = {
-	name = "Kaini"
-	file = "ltn_station/Kaini.ogg"
+	name = "Nevermind_Everythings_Ok"
+	file = "ltn_station/Nevermind_Everythings_Ok.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Ricochet_Part_One"
+	file = "ltn_station/Ricochet_Part_One.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Ricochet_Part_Two"
+	file = "ltn_station/Ricochet_Part_Two.ogg"
+	volume = 0.80
+}
+music = {
+	name = "Caligula"
+	file = "ltn_station/Caligula.ogg"
 	volume = 0.80
 }
 music = {

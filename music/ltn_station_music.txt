@@ -9,6 +9,30 @@ music = {
 	}
 }
 music = {
+	song = "Nevermind_Everythings_Ok"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ricochet_Part_One"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ricochet_Part_Two"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Caligula"
 	chance = {
 		modifier = {
