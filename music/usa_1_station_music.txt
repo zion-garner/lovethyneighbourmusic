@@ -633,6 +633,14 @@ music = {
 	}
 }
 music = {
+	song = "You_Keep_Me_Hangin_On"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "I_Was_Made_For_Lovin_You"
 	chance = {
 		modifier = {

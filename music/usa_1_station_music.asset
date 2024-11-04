@@ -394,6 +394,11 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "You_Keep_Me_Hangin_On"
+	file = "usa_1_station/You_Keep_Me_Hangin_On.ogg"
+	volume = 0.80
+}
+music = {
 	name = "I_Was_Made_For_Lovin_You"
 	file = "usa_1_station/I_Was_Made_For_Lovin_You.ogg"
 	volume = 0.80
