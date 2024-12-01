@@ -625,6 +625,14 @@ music = {
 	}
 }
 music = {
+	song = "Running_Up_That_Hill"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Kids_In_America"
 	chance = {
 		modifier = {
