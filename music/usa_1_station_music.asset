@@ -64,6 +64,11 @@ music = {
 	volume = 0.80
 }
 music = {
+	name = "Tarzan_Boy"
+	file = "usa_1_station/Tarzan_Boy.ogg"
+	volume = 0.80
+}
+music = {
 	name = "Fight_For_Your_Right"
 	file = "usa_1_station/Fight_For_Your_Right.ogg"
 	volume = 0.80

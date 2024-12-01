@@ -4,4 +4,4 @@ tags={
 }
 name="Love Thy Neighbour Music"
 picture="thumbnail.png"
-supported_version="1.14.7"
+supported_version="1.15.*"
